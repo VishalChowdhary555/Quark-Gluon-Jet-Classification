@@ -1,0 +1,4 @@
+Model,Accuracy,AUC,Precision,Recall,F1 Score
+Random Forest,0.748,0.804,0.742,0.756,0.749
+XGBoost,0.786,0.846,0.781,0.79,0.785
+CNN Jet Images,0.824,0.889,0.821,0.826,0.823
